@@ -11,3 +11,7 @@ feature2()
 f2;
 }
 
+security patch()
+{
+s1;
+}
